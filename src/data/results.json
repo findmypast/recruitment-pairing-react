@@ -1,0 +1,1046 @@
+{
+  "data": {
+    "search": [
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/3/AZ/000626/099"
+          },
+          {
+            "key": "County",
+            "value": "Bedfordshire"
+          },
+          {
+            "key": "District",
+            "value": "Bedford"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "3"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Bedford, Bedfordshire, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/4/AZ/000694/032"
+          },
+          {
+            "key": "County",
+            "value": "Bedfordshire"
+          },
+          {
+            "key": "District",
+            "value": "Ampthill"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "4"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Ampthill, Bedfordshire, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/3/AZ/000626/063"
+          },
+          {
+            "key": "County",
+            "value": "Buckinghamshire"
+          },
+          {
+            "key": "District",
+            "value": "Wycombe"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "3"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Wycombe, Buckinghamshire, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/3/AZ/000626/079"
+          },
+          {
+            "key": "County",
+            "value": "Buckinghamshire"
+          },
+          {
+            "key": "District",
+            "value": "Wycombe"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "3"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Wycombe, Buckinghamshire, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/4/AZ/000693/136"
+          },
+          {
+            "key": "County",
+            "value": "Cambridgeshire"
+          },
+          {
+            "key": "District",
+            "value": "North Witchford"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "4"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "North Witchford, Cambridgeshire, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/3/AZ/000626/058"
+          },
+          {
+            "key": "County",
+            "value": "Cheshire"
+          },
+          {
+            "key": "District",
+            "value": "Macclesfield"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "3"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Macclesfield, Cheshire, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/3/AZ/000626/061"
+          },
+          {
+            "key": "County",
+            "value": "Cheshire"
+          },
+          {
+            "key": "District",
+            "value": "Wirral"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "3"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Wirral, Cheshire, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/3/AZ/000626/062"
+          },
+          {
+            "key": "County",
+            "value": "Cheshire"
+          },
+          {
+            "key": "District",
+            "value": "Stockport"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "3"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Stockport, Cheshire, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/4/AZ/000694/025"
+          },
+          {
+            "key": "County",
+            "value": "Cheshire"
+          },
+          {
+            "key": "District",
+            "value": "Runcorn"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "4"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Runcorn, Cheshire, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/4/AZ/000694/039"
+          },
+          {
+            "key": "County",
+            "value": "Cheshire"
+          },
+          {
+            "key": "District",
+            "value": "Stockport"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "4"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Stockport, Cheshire, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/4/AZ/000693/114"
+          },
+          {
+            "key": "County",
+            "value": "Cornwall"
+          },
+          {
+            "key": "District",
+            "value": "Falmouth"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "4"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Falmouth, Cornwall, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/3/AZ/000626/109"
+          },
+          {
+            "key": "County",
+            "value": "Cumberland"
+          },
+          {
+            "key": "District",
+            "value": "Penrith"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "3"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Penrith, Cumberland, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/4/AZ/000694/023"
+          },
+          {
+            "key": "County",
+            "value": "Derbyshire"
+          },
+          {
+            "key": "District",
+            "value": "Belper"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "4"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Belper, Derbyshire, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/4/AZ/000694/026"
+          },
+          {
+            "key": "County",
+            "value": "Derbyshire"
+          },
+          {
+            "key": "District",
+            "value": "Ashbourne"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "4"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Ashbourne, Derbyshire, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/4/AZ/000694/030"
+          },
+          {
+            "key": "County",
+            "value": "Derbyshire"
+          },
+          {
+            "key": "District",
+            "value": "Repton"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "4"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Repton, Derbyshire, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/4/AZ/000693/130"
+          },
+          {
+            "key": "County",
+            "value": "Dorset"
+          },
+          {
+            "key": "District",
+            "value": "Weymouth"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "4"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Weymouth, Dorset, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/3/AZ/000626/095"
+          },
+          {
+            "key": "County",
+            "value": "Durham"
+          },
+          {
+            "key": "District",
+            "value": "South Shields"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "3"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "South Shields, Durham, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/3/AZ/000626/096"
+          },
+          {
+            "key": "County",
+            "value": "Durham"
+          },
+          {
+            "key": "District",
+            "value": "Stockton"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "3"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Stockton, Durham, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/3/AZ/000626/111"
+          },
+          {
+            "key": "County",
+            "value": "Durham"
+          },
+          {
+            "key": "District",
+            "value": "Sunderland"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "3"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Sunderland, Durham, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "key": "Id",
+            "value": "BMD/B/1837/4/AZ/000693/152"
+          },
+          {
+            "key": "County",
+            "value": "Durham"
+          },
+          {
+            "key": "District",
+            "value": "Houghton Le Spring"
+          },
+          {
+            "key": "LastName",
+            "value": "Smith"
+          },
+          {
+            "key": "FirstName",
+            "value": "John"
+          },
+          {
+            "key": "DatasetName",
+            "value": "England & Wales Births 1837-2006"
+          },
+          {
+            "key": "SourceCategory",
+            "value": "Civil Births"
+          },
+          {
+            "key": "YearOfBirth",
+            "value": "1837"
+          },
+          {
+            "key": "EventQuarter",
+            "value": "4"
+          },
+          {
+            "key": "DisplayAddress",
+            "value": "Houghton Le Spring, Durham, England"
+          },
+          {
+            "key": "EventYear",
+            "value": "1837"
+          },
+          {
+            "key": "RecordMetadataId",
+            "value": "bmd_births"
+          }
+        ]
+      }
+    ]
+  }
+}
