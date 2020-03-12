@@ -1,6 +1,6 @@
 import React from "react";
 import { Stack, Heading, Box, Columns } from "./design-system";
-import { data } from "./data/results-expanded.json";
+import { searchResults } from "./data/results-expanded.json";
 import { constructBirthDate } from "./utils";
 
 function App() {
@@ -15,17 +15,15 @@ function App() {
             <Box>First Name</Box>
             <Box>Last Name</Box>
             <Box>Location</Box>
-            <Box>Year</Box>
             <Box>Date of Birth</Box>
           </Columns>
         </Box>
-        {data.search.map(({ fields }) => (
+        {searchResults.map(({ fields }) => (
           <Box padding={3} bg="white">
             <Columns>
               <Box>{fields.find(x => x.key === "FirstName")?.value}</Box>
               <Box>{fields.find(x => x.key === "LastName")?.value}</Box>
               <Box>{fields.find(x => x.key === "DisplayAddress")?.value}</Box>
-              <Box>{fields.find(x => x.key === "EventYear")?.value}</Box>
               <Box>{constructBirthDate(fields)}</Box>
             </Columns>
           </Box>
