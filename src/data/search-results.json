@@ -1,0 +1,88 @@
+{
+  "searchResults": [
+    {
+      "fields": [
+        {
+          "key": "LastName",
+          "value": "Buckley"
+        },
+        {
+          "key": "FirstName",
+          "value": "Adele Joanna"
+        },
+        {
+          "key": "YearOfBirth",
+          "value": "1970"
+        },
+        {
+          "key": "DisplayAddress",
+          "value": "Lancaster, Lancashire, England"
+        },
+        {
+          "key": "BirthMonth",
+          "value": "7"
+        },
+        {
+          "key": "BirthDay",
+          "value": "21"
+        }
+      ]
+    },
+    {
+      "fields": [
+        {
+          "key": "LastName",
+          "value": "Buckley"
+        },
+        {
+          "key": "FirstName",
+          "value": "Aleisha Joanne"
+        },
+        {
+          "key": "YearOfBirth",
+          "value": "1971"
+        },
+        {
+          "key": "DisplayAddress",
+          "value": "Brentwood, Essex, England"
+        },
+        {
+          "key": "BirthMonth",
+          "value": "6"
+        },
+        {
+          "key": "BirthDay",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "fields": [
+        {
+          "key": "LastName",
+          "value": "Buckley"
+        },
+        {
+          "key": "FirstName",
+          "value": "Alice Joan"
+        },
+        {
+          "key": "YearOfBirth",
+          "value": "1903"
+        },
+        {
+          "key": "DisplayAddress",
+          "value": "Swindon, Wiltshire, England"
+        },
+        {
+          "key": "BirthMonth",
+          "value": "2"
+        },
+        {
+          "key": "BirthDay",
+          "value": "28"
+        }
+      ]
+    }
+  ]
+}
